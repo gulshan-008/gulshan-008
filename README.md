@@ -79,7 +79,7 @@ Machine Learning project focused on analyzing loan applicant data and predicting
 
 ---
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gulshan-008&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -98,3 +98,4 @@ Machine Learning project focused on analyzing loan applicant data and predicting
 ## 👀 Profile Views
 
 ![](https://visitcount.itsvg.in/api?id=gulshan-008&icon=0&color=0)
+-->
